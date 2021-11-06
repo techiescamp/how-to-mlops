@@ -10,4 +10,10 @@ Curated list of publicly available and commiunity contributed resources to learn
 
 ## MLOPS Roadmap
 
-<--Comming Soon-->
+<--Comming Soon-->\
+
+
+## Collections
+
+1. https://github.com/devopscube/how-to-mlops/invitations
+
