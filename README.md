@@ -8,3 +8,6 @@ Curated list of publicly available and commiunity contributed resources to learn
 3. [Understanding ML Algorithm & Model](https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/)
 
 
+## MLOPS Roadmap
+
+<Comming Soon>
