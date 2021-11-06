@@ -10,4 +10,4 @@ Curated list of publicly available and commiunity contributed resources to learn
 
 ## MLOPS Roadmap
 
-<Comming Soon>
+<--Comming Soon-->
