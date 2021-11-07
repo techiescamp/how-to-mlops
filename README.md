@@ -11,7 +11,7 @@ MLOPS = DevOps + Machine learning + Data Engineering
 
 If you follow DevOps culture and practices for ML projects, you can call it as MLOPS
 
-## How MLOPS is different from DevOps
+## How MLOPS is different from DevOps?
 
 MLOPS is different from DevOps in the same areas how a Machiine learning development is different from a traditional software development process.
 
