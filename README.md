@@ -7,7 +7,7 @@ This repository is focused on people who want to start with MLOPS from a DevOps 
 
 MLOPS is a practice followed to develop and deploy machine learning applications.
 
-MLOPS = DevOps + Machine learning + Data Engineering
+MLOPS = DevOps + Machine Learning
 
 If you follow DevOps culture and practices for ML projects, you can call it as MLOPS
 
@@ -21,10 +21,11 @@ In the same way, for MLOPS, a DevOps engineer should understand the ML applicati
 
 Following are the key teams involved in MLOPS
 
-1. Data Engineering
+1. Data Engineers
 2. Data Scientists
-3. Machine Learning Developers
-4. DevOps engineers (Infrastructure Team)
+3. Software Engineers
+4. Machine Learning Architects
+5. DevOps engineers
 
 ## Role of DevOps in MLOPS
 
