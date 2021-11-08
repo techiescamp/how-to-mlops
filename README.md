@@ -17,7 +17,7 @@ MLOPS is different from DevOps in the same areas how a Machine learning developm
 
 As Devops engineers, we understand the complete life cycle of an application from development to production. It includes CI/CD, logging, monitoring, alerting, etc.
 
-In the same way, for MLOPS, a DevOps engineer should understand the ML application lifecycle and core concepts around it. It enables the DevOps engineer to practice its principle when multiple teams are involved.
+In the same way, for MLOPS, a DevOps engineer should understand the ML application lifecycle and core concepts around it. It enables the DevOps engineer to collaborate when multiple ML teams are involved.
 
 Following are the key teams involved in MLOPS
 
