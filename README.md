@@ -13,7 +13,7 @@ If you follow DevOps culture and practices for ML projects, you can call it as M
 
 ## How MLOPS is different from DevOps?
 
-MLOPS is different from DevOps in the same areas how a Machiine learning development is different from a traditional software development process.
+MLOPS is different from DevOps in the same areas how a Machine learning development is different from a traditional software development process.
 
 As Devops engineers, we understand the complete life cycle of an application from development to production. It includes CI/CD, logging, monitoring, alerting, etc.
 
