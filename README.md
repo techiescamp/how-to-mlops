@@ -47,3 +47,15 @@ Following are the key teams involved in MLOPS
 ## MLOPS Roadmap
 
 <--Comming Soon-->
+
+## Free MLOPS Coursers
+
+<--Comming Soon-->
+
+## MLOPS Practical Labs for Beginners
+
+<--Comming Soon-->
+
+## MLOPS Practical Labs Advanced Labs
+
+<--Comming Soon-->
