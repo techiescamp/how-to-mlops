@@ -56,6 +56,6 @@ Following are the key teams involved in MLOPS
 
 <--Comming Soon-->
 
-## MLOPS Practical Labs Advanced Labs
+## MLOPS Advanced Labs
 
 <--Comming Soon-->
