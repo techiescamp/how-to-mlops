@@ -48,7 +48,7 @@ Following are the key teams involved in MLOPS
 
 <--Comming Soon-->
 
-## Free MLOPS Coursers
+## Free MLOPS Courses
 
 <--Comming Soon-->
 
