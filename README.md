@@ -43,6 +43,9 @@ Following are the key teams involved in MLOPS
 
 1. [150 Data Engineering Concepts](https://towardsdatascience.com/150-concepts-heard-in-data-engineering-a2e3a99212ed)
 
+## Free MLOPS Services
+
+1. [AWS Sagemaker Studio](https://studiolab.sagemaker.aws/)
 
 ## MLOPS Roadmap
 
