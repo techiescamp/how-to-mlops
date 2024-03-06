@@ -9,7 +9,14 @@ MLOPS is a practice followed to develop and deploy machine learning applications
 
 MLOPS = DevOps + Machine Learning
 
-If you follow DevOps culture and practices for ML projects, you can call it as MLOPS
+If you follow DevOps culture and practices for ML projects, you can call it as MLOPS.
+
+Here is the high level workflow for MLOPS.
+
+<p align="center">
+  <img src="https://github.com/techiescamp/how-to-mlops/assets/106984297/ccf66e47-e05e-40a7-8d85-b65fa9eb9aa4" alt="MLOPS" style="width:75%;">
+</p>
+
 
 ## How is MLOPS is different from DevOps?
 
