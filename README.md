@@ -30,7 +30,7 @@ Following are the key teams involved in MLOPS
 ## Role of DevOps in MLOPS
 
 1. [Why is DevOps for Machine Learning so Different?](https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1)
-2. [Needs for DevOps for ML Data](https://www.tecton.ai/blog/devops-ml-data/)
+2. [Need for DevOps for ML Data](https://www.tecton.ai/blog/devops-ml-data/)
 3. [MLOps and DevOps: Why Data Makes It Different](https://www.kqzyfj.com/click-7056991-12181821?url=https%3A%2F%2Fwww.oreilly.com%2Fradar%2Fmlops-and-devops-why-data-makes-it-different%2F)
 
 ## ML Basics
