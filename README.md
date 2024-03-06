@@ -11,7 +11,7 @@ MLOPS = DevOps + Machine Learning
 
 If you follow DevOps culture and practices for ML projects, you can call it as MLOPS.
 
-Here is the high level workflow for MLOPS.
+Here is the high-level workflow of an MLOps pipeline.
 
 <p align="center">
   <img src="https://github.com/techiescamp/how-to-mlops/assets/106984297/ccf66e47-e05e-40a7-8d85-b65fa9eb9aa4" alt="MLOPS" style="width:75%;">
@@ -28,13 +28,18 @@ In the same way, for MLOPS, a DevOps engineer should understand the ML applicati
 
 Following are the key teams involved in MLOPS
 
-1. Data Engineers
-2. Data Scientists
-3. Software Engineers
-4. Machine Learning Architects
-5. DevOps engineers
+1. **Data Scientists:** These are the experts who develop and train the machine learning models. They understand the business problem and translate it into a modeling approach. They're the brains behind the algorithms!
+2. **Data Engineers:** They build the infrastructure to collect, store, and process the data used to train and deploy the models. They are the plumbers who ensure the data flows smoothly.
+3. **Software Engineers:** They develop the web applications or APIs that will use the machine learning models. They ensure the models can be easily integrated into existing systems.
+4. **ML Engineers:** These folks combine the skills of data scientists and software engineers. They take the models from development to production, building pipelines to automate the training, deployment, and monitoring processes. They bridge the gap between creating and implementing the models.
+5. **DevOps engineers:** They automate the process of deploying and managing the machine learning models in production. They ensure the models are reliable and scalable.
+6. **Business Stakeholders:** These are the people who represent the business needs and goals for the machine learning project. They define the success metrics and ensure that the models are aligned with the overall business strategy.
 
 ## Role of DevOps in MLOPS
+
+DevOps brings automation and collaboration to MLOps, making machine learning model development and deployment smoother.
+
+Here are some guide to get started.
 
 1. [Why is DevOps for Machine Learning so Different?](https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1)
 2. [Need for DevOps for ML Data](https://www.tecton.ai/blog/devops-ml-data/)
@@ -50,17 +55,20 @@ Following are the key teams involved in MLOPS
 
 1. [150 Data Engineering Concepts](https://towardsdatascience.com/150-concepts-heard-in-data-engineering-a2e3a99212ed)
 
-## Free MLOPS Services
+## Free MLOPS Tools & Services
 
 1. [AWS Sagemaker Studio](https://studiolab.sagemaker.aws/)
+2. [Kubeflow](https://www.kubeflow.org/)
+3. [MLFlow](https://mlflow.org/)
+
+## MLOPS Courses
+
+1. [MLOps Concepts (Datacamp)](https://datacamp.pxf.io/vNk1Dv)
 
 ## MLOPS Roadmap
 
 <--Comming Soon-->
 
-## Free MLOPS Courses
-
-<--Comming Soon-->
 
 ## MLOPS Real World Use Cases
 
