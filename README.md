@@ -81,3 +81,7 @@ Here are some guide to get started.
 ## MLOPS Advanced Labs
 
 <--Comming Soon-->
+
+## Datasets
+
+1. https://www.kaggle.com/datasets
