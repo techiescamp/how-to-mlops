@@ -41,9 +41,10 @@ DevOps brings automation and collaboration to MLOps, making machine learning mod
 
 Here are some guide to get started.
 
-1. [Why is DevOps for Machine Learning so Different?](https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1)
-2. [Need for DevOps for ML Data](https://www.tecton.ai/blog/devops-ml-data/)
-3. [MLOps and DevOps: Why Data Makes It Different](https://www.kqzyfj.com/click-7056991-12181821?url=https%3A%2F%2Fwww.oreilly.com%2Fradar%2Fmlops-and-devops-why-data-makes-it-different%2F)
+1. [DevOps to MLOps](https://devopscube.com/devops-to-mlops/)
+2. [Why is DevOps for Machine Learning so Different?](https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1)
+3. [Need for DevOps for ML Data](https://www.tecton.ai/blog/devops-ml-data/)
+4. [MLOps and DevOps: Why Data Makes It Different](https://www.kqzyfj.com/click-7056991-12181821?url=https%3A%2F%2Fwww.oreilly.com%2Fradar%2Fmlops-and-devops-why-data-makes-it-different%2F)
 
 ## ML Basics
 
